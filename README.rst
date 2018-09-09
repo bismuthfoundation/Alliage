@@ -4,7 +4,9 @@ Alliage - Lightweight Bismuth client, Electrum based
 At the moment, this is just a fork of the Electrum rep.  
 
 There is a 1000 $BIS bounty for developers who will help porting this wallet to Bismuth.  
+
 Pythons dev experienced with electrum are most welcome to get in touch!
+
 
 
 ::
